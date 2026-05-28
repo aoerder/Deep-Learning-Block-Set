@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding="utf-8"?>
+<toc version="2.0">
+    <tocitem target="dlbsHelpTop.html">Deep Learning Block-Set
+        <tocitem target="dlbsHelpGettingStarted.html">Getting Started</tocitem>
+        <tocitem target="dlbsHelpConcepts.html">Key Concepts</tocitem>        
+        <tocitem target="dlbsHelpLibraryReference.html">Library Reference
+            <tocitem target="dlbsHelpLibraryMath.html">Math
+                <tocitem target="dlbsHelpBlockAdd.html">Add</tocitem>
+                <tocitem target="dlbsHelpBlockBias.html">Bias</tocitem>
+                <tocitem target="dlbsHelpBlockGain.html">Gain</tocitem>
+                <tocitem target="dlbsHelpBlockLog.html">Log</tocitem>
+                <tocitem target="dlbsHelpBlockMatrixMultiply.html">Matrix Multiply</tocitem>
+                <tocitem target="dlbsHelpBlockProduct.html">Product</tocitem>
+                <tocitem target="dlbsHelpBlockReciprocal.html">Reciprocal</tocitem>
+                <tocitem target="dlbsHelpBlockSqrt.html">Square Root</tocitem>
+                <tocitem target="dlbsHelpBlockSquare.html">Square</tocitem>
+                <tocitem target="dlbsHelpBlockSin.html">Sin</tocitem>
+                <tocitem target="dlbsHelpBlockCos.html">Cos</tocitem>
+            </tocitem>
+            <tocitem target="dlbsHelpLibraryLayer.html">Layer
+                <tocitem target="dlbsHelpBlockDenseLayer.html">Dense Layer</tocitem>
+            </tocitem>
+            <tocitem target="dlbsHelpLibraryLoss.html">Loss
+                <tocitem target="dlbsHelpBlockBceLoss.html">Binary Cross Entropy Loss</tocitem>
+                <tocitem target="dlbsHelpBlockMseLoss.html">Mean Squared Error Loss</tocitem>
+            </tocitem>
+            <tocitem target="dlbsHelpLibraryNonlinearActivation.html">Nonlinear Activation
+                <tocitem target="dlbsHelpBlockRelu.html">ReLU</tocitem>
+                <tocitem target="dlbsHelpBlockSigmoid.html">Sigmoid</tocitem>
+                <tocitem target="dlbsHelpBlockTanh.html">Tanh</tocitem>
+            </tocitem>
+            <tocitem target="dlbsHelpLibraryReduction.html">Reduction
+                <tocitem target="dlbsHelpBlockSum.html">Sum</tocitem>
+                <tocitem target="dlbsHelpBlockMean.html">Mean</tocitem>
+            </tocitem>
+            <tocitem target="dlbsHelpLibraryOptimizer.html">Optimizer
+                <tocitem target="dlbsHelpBlockSgd.html">SGD Optimizer</tocitem>
+                <tocitem target="dlbsHelpBlockAdam.html">Adam Optimizer</tocitem>
+                <tocitem target="dlbsHelpBlockParameterUpdate.html">Parameter Update</tocitem>
+            </tocitem>
+            <tocitem target="dlbsHelpLibraryRouting.html">Routing
+                <tocitem target="dlbsHelpBlockSplit.html">Split</tocitem>
+                <tocitem target="dlbsHelpBlockConcatenate.html">Concatenate</tocitem>
+                <tocitem target="dlbsHelpBlockSlice.html">Slice</tocitem>
+            </tocitem>
+            <tocitem target="dlbsHelpLibraryMisc.html">Misc
+                <tocitem target="dlbsHelpBlockSpecifyDimensions.html">Specify Dimensions</tocitem>
+                <tocitem target="dlbsHelpLibraryNoGradientOperations.html">No-Gradient Operations
+                    <tocitem target="dlbsHelpBlockParametrizedSelector.html">Parametrized Selector</tocitem>
+                    <tocitem target="dlbsHelpBlockSumOverMultipleDimensions.html">Sum Over Multiple Dimensions</tocitem>
+                </tocitem>
+            </tocitem>
+            <tocitem target="dlbsHelpLibraryInternal.html">Internal
+                <tocitem target="dlbsHelpBlockInsertGradientGF.html">Insert Gradient</tocitem>
+                <tocitem target="dlbsHelpBlockExtractGradientGF.html">Extract Gradient</tocitem>
+            </tocitem>
+        </tocitem>
+    </tocitem>
+</toc>
