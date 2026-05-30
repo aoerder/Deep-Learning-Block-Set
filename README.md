@@ -25,7 +25,7 @@ This blockset is licensed under the MIT License. See the [LICENSE.txt](LICENSE.t
 
 ## Development Repository
 
-The [GitHub repository KIT-ETI/Deep-Learning-Block-Set](https://github.com/KIT-ETI/Deep-Learning-Block-Set) constitutes the development version of the blockset. If you are looking for the installable toolbox, visit [Mathworks Exchange](https://mathworks.com/matlabcentral/fileexchange/).
+The [GitHub repository KIT-ETI/Deep-Learning-Block-Set](https://github.com/KIT-ETI/Deep-Learning-Block-Set) constitutes the development version of the blockset. If you are looking for the installable toolbox, visit [Mathworks Exchange](https://mathworks.com/matlabcentral/fileexchange/183974-deep-learning-block-set).
 
 
 ### Structure of the Repository

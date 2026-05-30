@@ -1,7 +1,7 @@
 function packageToolbox(varargin)
 
 p = inputParser();
-p.addOptional('version', '0.0.0', @(x) ~isempty(regexp(x, "^[0-9]*\.[0-9]*\.[0-9]*$", "once")));
+p.addRequired('version', @(x) ~isempty(regexp(x, "^[0-9]*\.[0-9]*\.[0-9]*$", "once")));
 p.addParameter('runTests', true, @islogical);
 p.addParameter('buildDocuments', true, @islogical);
 p.addParameter('package', true, @islogical);
@@ -35,7 +35,7 @@ opts.Summary = "Summary";
 opts.ToolboxImageFile = fullfile(dlbs.rootPath, "docs", "dlbsIcon.png");
 
 % Author
-opts.AuthorName = "Karlsruhe Institute of Technology";
+opts.AuthorName = "Alexander Oerder";
 opts.AuthorEmail = "alexander.oerder@kit.edu";
 opts.AuthorCompany = "Karlsruhe Institute of Technology";
 
