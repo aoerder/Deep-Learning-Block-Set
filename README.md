@@ -13,7 +13,7 @@ For a first hands-on model, start with the peak-classification example in the Ge
 ## Citing
 If you use this blockset in your research, please cite the following paper:
 ```
-A. Oerder et al., "Deep Learning Block-Set - A Simulink Native Deep Learning Framework", 2026 International Power Electronics Conference (IPEC-Nagasaki 2026 - ECCE Asia), https://doi.org/10.23919/IPEC-Nagasaki2026-EC64663.2026.11597096
+A. Oerder, T. Kappler, J. Abu Akdeh, M. Hiller and A. Liske, "Deep Learning Block-Set - A Simulink Native Deep Learning Framework", 2026 International Power Electronics Conference (IPEC-Nagasaki 2026 - ECCE Asia), https://doi.org/10.23919/IPEC-Nagasaki2026-EC64663.2026.11597096
 ```
 
 ## License

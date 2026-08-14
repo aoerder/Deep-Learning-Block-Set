@@ -13,7 +13,7 @@ preferred-citation:
   - family-names: "Liske"
     given-names: "Andreas"
   doi: "10.23919/IPEC-Nagasaki2026-EC64663.2026.11597096"
-  journal: "2026 International Power Electronics Conference (IPEC-Nagasaki 2026 - ECCE Asia)"
+  collection-title: "2026 International Power Electronics Conference (IPEC-Nagasaki 2026 - ECCE Asia)"
   month: 5
   title: "Deep Learning Block-Set - A Simulink Native Deep Learning Framework"
   year: 2026
