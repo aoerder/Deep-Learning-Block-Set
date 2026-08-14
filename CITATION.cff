@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Oerder"
+    given-names: "Alexander"
+  - family-names: "Kappler"
+    given-names: "Tim"
+  - family-names: "Abu Akdeh"
+    given-names: "Johnny"
+  - family-names: "Hiller"
+    given-names: "Marc"
+  - family-names: "Liske"
+    given-names: "Andreas"
+  doi: "10.23919/IPEC-Nagasaki2026-EC64663.2026.11597096"
+  journal: "2026 International Power Electronics Conference (IPEC-Nagasaki 2026 - ECCE Asia)"
+  month: 5
+  title: "Deep Learning Block-Set - A Simulink Native Deep Learning Framework"
+  year: 2026
+  url: "https://ieeexplore.ieee.org/document/11597096/"
